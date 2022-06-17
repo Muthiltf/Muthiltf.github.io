@@ -7,22 +7,22 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Latifa Muthi Apritina
+    tagline: UIN Suska Riau Students
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: lativamuthi@gmail.com
+    phone: 083188398009
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: blog.Muthi00.com #do not add http://
+    linkedin: Ltf.MeAp
+    xing: Ltf.MeAp
+    github: Muthiltf
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@Ltf.MeAp'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -32,20 +32,20 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Chinese
+        level: Base
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Japanese
+        level: Base
 
     interests:
-      - item: Climbing
+      - item: Traveling
         link:
 
-      - item: Snowboarding
+      - item: Sport
         link:
 
-      - item: Cooking
+      - item: Paint
         link:
 
 career-profile:
